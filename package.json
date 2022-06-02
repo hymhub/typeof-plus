@@ -1,0 +1,22 @@
+{
+  "name": "typeof-plus",
+  "version": "1.0.0",
+  "description": "typeof-plus is a small tool to judge the data type of variables",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "datatype",
+    "typeof",
+    "typeof-plus"
+  ],
+  "type": "module",
+  "author": "hym",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
