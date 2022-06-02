@@ -1,6 +1,6 @@
 {
   "name": "typeof-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "typeof-plus is a small tool to judge the data type of variables",
   "main": "./dist/index.js",
   "scripts": {
@@ -18,5 +18,10 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.7.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hymhub/typeof-plus"
+  },
+  "homepage": "https://github.com/hymhub/typeof-plus"
 }
