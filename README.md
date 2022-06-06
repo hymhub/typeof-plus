@@ -15,6 +15,7 @@ typeis(/abc/g); // regexp
 typeis(new Date()); // date
 typeis(123n); // bigint
 typeis(123); // number
+typeis(undefined); // undefined
 typeis("hello"); // string
 typeis(true); // boolean
 typeis(Symbol("test")); // symbol
