@@ -1,6 +1,6 @@
 {
   "name": "typeof-plus",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "typeof-plus is a small tool to judge the data type of variables",
   "main": "./dist/index.js",
   "scripts": {

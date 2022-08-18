@@ -3,6 +3,7 @@
       "target": "es2018",
       "module": "esNext",
       "moduleResolution": "node",
+      "declaration": true,
       "baseUrl": ".",
       "outDir": "dist",
     },
